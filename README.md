@@ -14,3 +14,9 @@ step 3: npm start
 step 4: Finally, open your browser and go to the following url:
 
 http://localhost:5000
+
+Before starting you need to have MongoDB account 
+-> create cluster
+->create database access
+->then get URL connection 
+->then create .env file then assign MONGO_URI = database connection url
